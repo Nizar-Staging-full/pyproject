@@ -8,7 +8,7 @@ amqp==5.1.1
     # via kombu
 async-timeout==4.0.2
     # via redis
-billiard==3.6.4.0
+billiard==4.1.0
     # via celery
 blinker==1.6.2
     # via flask

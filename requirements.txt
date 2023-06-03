@@ -35,7 +35,7 @@ jinja2==3.1.2
     # via flask
 kombu==5.2.4
     # via celery
-markupsafe==2.1.2
+markupsafe==2.1.3
     # via
     #   jinja2
     #   werkzeug

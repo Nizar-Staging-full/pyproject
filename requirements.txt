@@ -33,7 +33,7 @@ itsdangerous==2.1.2
     # via flask
 jinja2==3.1.2
     # via flask
-kombu==5.2.4
+kombu==5.3.1
     # via celery
 markupsafe==2.1.2
     # via

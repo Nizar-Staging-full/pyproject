@@ -43,7 +43,7 @@ prompt-toolkit==3.0.38
     # via click-repl
 pytz==2023.3
     # via celery
-redis==4.5.4
+redis==4.6.0
     # via celery
 six==1.16.0
     # via click-repl

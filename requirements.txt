@@ -39,7 +39,7 @@ markupsafe==2.1.2
     # via
     #   jinja2
     #   werkzeug
-prompt-toolkit==3.0.38
+prompt-toolkit==3.0.39
     # via click-repl
 pytz==2023.3
     # via celery
